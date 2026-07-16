@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "hipreme"
+    ],
+    "configurations": [
+        {"name": "default"},
+        {"name": "nintendo-switch", "versions": ["NintendoSwitch", "EGL_EGL_PROTOTYPES", "EGL_EGLEXT_PROTOTYPES"]}
+    ],
+    "description": "libEGL binding for D",
+	"targetPath": "build",
+    "license": "proprietary",
+    "name": "egl"
+}
