@@ -8,6 +8,6 @@
     ],
     "description": "libEGL binding for D",
 	"targetPath": "build",
-    "license": "proprietary",
+    "license": "MIT",
     "name": "egl"
 }
